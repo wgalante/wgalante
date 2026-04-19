@@ -5,7 +5,7 @@ Turning raw business data into decisions — and automating the rest with agents
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Links |
 |---|---|---|
@@ -14,7 +14,7 @@ Turning raw business data into decisions — and automating the rest with agents
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -26,13 +26,13 @@ Turning raw business data into decisions — and automating the rest with agents
 
 ---
 
-## 🤖 Currently Building
+## Currently Building
 
 Founder at **[Tork AI](https://torkai.com.br/)** — a studio building AI agents, automations, and agentic workflows applied to real business operations in Brazil. Claude API + n8n at the core.
 
 ---
 
-## 📬 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wgalante-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wgalante)
 [![Email](https://img.shields.io/badge/Email-wsaueia%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wsaueia@outlook.com)
