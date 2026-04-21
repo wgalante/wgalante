@@ -1,7 +1,7 @@
 # William Galante
 
-**Data Analyst | Python · SQL · Streamlit | Building AI agents for operational solutions at Tork AI**  
-Turning raw business data into decisions — and automating the rest with agents.
+**Data Analyst | Python · SQL · BigQuery · Power BI | AI Agents & Prompt Engineering**  
+Turning raw business data into smart decisions.
 
 ---
 
