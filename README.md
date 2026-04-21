@@ -34,5 +34,5 @@ Founder at **[Tork AI](https://torkai.com.br/)** — a studio building AI agents
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wgalante-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wgalante)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wgalante-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-galante)
 [![Email](https://img.shields.io/badge/Email-wsaueia%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wsaueia@outlook.com)
