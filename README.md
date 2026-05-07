@@ -11,6 +11,7 @@ Turning raw business data into smart decisions.
 |---|---|---|
 | **customer-churn-analysis** | Churn prediction with Logistic Regression — 79.8% accuracy, $16.6K/month in at-risk revenue identified | [GitHub](https://github.com/wgalante/customer-churn-analysis) |
 | **sales-dashboard-olist** | Interactive Streamlit dashboard analyzing 98K orders and R$15.8M in revenue | [GitHub](https://github.com/wgalante/sales-dashboard-olist) · [Live Demo](https://olist-sales-dashboard.streamlit.app) |
+| **olist-delivery-quality-analysis** | EDA on 96K orders revealing that 4–7 day delays drop customer satisfaction by 49% — geographic and category breakdown | [GitHub](https://github.com/wgalante/olist-delivery-quality-analysis) |
 
 ---
 
