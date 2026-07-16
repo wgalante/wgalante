@@ -1,7 +1,7 @@
 # William Galante
 
-**Data Analyst | Python · SQL · BigQuery · Power BI | AI Agents & Prompt Engineering**  
-Turning raw business data into smart decisions.
+**Data Analyst | Python · SQL · Streamlit | Building AI agents for operational solutions at Tork AI**  
+Turning raw business data into decisions — and automating the rest with agents.
 
 ---
 
@@ -12,6 +12,7 @@ Turning raw business data into smart decisions.
 | **customer-churn-analysis** | Churn prediction with Logistic Regression — 79.8% accuracy, $16.6K/month in at-risk revenue identified | [GitHub](https://github.com/wgalante/customer-churn-analysis) |
 | **sales-dashboard-olist** | Interactive Streamlit dashboard analyzing 98K orders and R$15.8M in revenue | [GitHub](https://github.com/wgalante/sales-dashboard-olist) · [Live Demo](https://olist-sales-dashboard.streamlit.app) |
 | **olist-delivery-quality-analysis** | EDA on 96K orders revealing that 4–7 day delays drop customer satisfaction by 49% — geographic and category breakdown | [GitHub](https://github.com/wgalante/olist-delivery-quality-analysis) |
+| **world-cup-host-effect-analysis** | SQL analysis of the World Cup host-nation effect across 96 years — with a live-tested prediction heuristic | [GitHub](https://github.com/wgalante/world-cup-host-effect-analysis) |
 
 ---
 
@@ -29,11 +30,4 @@ Turning raw business data into smart decisions.
 
 ## Currently Building
 
-Founder at **[Tork AI](https://torkai.com.br/)** — a studio building AI agents, automations, and agentic workflows applied to real business operations in Brazil. Claude API + n8n at the core.
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wgalante-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-galante)
-[![Email](https://img.shields.io/badge/Email-wsaueia%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wsaueia@outlook.com)
+Founder at **[Tork AI](https://torkai.com.br/)** — a 
