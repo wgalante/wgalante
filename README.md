@@ -27,7 +27,3 @@ Turning raw business data into decisions — and automating the rest with agents
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
-
-## Currently Building
-
-Founder at **[Tork AI](https://torkai.com.br/)** — a 
