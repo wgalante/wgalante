@@ -1,7 +1,7 @@
 # William Galante
 
 **Data Analyst | Python · SQL · Streamlit | Building AI agents and workflows for operational solutions**  
-Turning raw business data into decisions — and automating the rest with agents.
+Turning raw business data into decisions — and implementing strategic automations with artificial intelligence.
 
 ---
 
