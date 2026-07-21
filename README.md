@@ -12,7 +12,7 @@ Turning raw business data into decisions — and implementing strategic automati
 | **customer-churn-analysis** | Churn prediction with Logistic Regression — 79.8% accuracy, $16.6K/month in at-risk revenue identified | [GitHub](https://github.com/wgalante/customer-churn-analysis) |
 | **sales-dashboard-olist** | Interactive Streamlit dashboard analyzing 98K orders and R$15.8M in revenue | [GitHub](https://github.com/wgalante/sales-dashboard-olist) · [Live Demo](https://olist-sales-dashboard.streamlit.app) |
 | **olist-delivery-quality-analysis** | EDA on 96K orders revealing that 4–7 day delays drop customer satisfaction by 49% — geographic and category breakdown | [GitHub](https://github.com/wgalante/olist-delivery-quality-analysis) |
-| **world-cup-data-analysis** | SQL analysis of the World Cup host-nation effect across 96 years — with a live-tested prediction heuristic | [GitHub](https://github.com/wgalante/world-cup-host-effect-analysis) |
+| **world-cup-data-analysis** | SQL + Python analysis of 9 World Cups (1994-2026) — 3 questions on scoring form, dataset independently validated against primary sources | [GitHub](https://github.com/wgalante/world-cup-data-analysis) |
 
 ---
 
