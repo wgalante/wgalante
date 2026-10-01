@@ -11,6 +11,7 @@ I turn business data and manual routines into decisions and automated processes:
 
 | Project | What it answers | Stack |
 |---|---|---|
+| [**olist-review-intelligence**](https://github.com/wgalante/olist-review-intelligence) | What do unhappy customers actually complain about? An LLM classifies 10K Portuguese reviews into complaint themes (F1 0.91 vs 0.75 for keyword rules); found that 75% of "not received" reviews were written before the order arrived. | Gemini / Claude API · Python · pytest |
 | [**olist-delivery-quality-analysis**](https://github.com/wgalante/olist-delivery-quality-analysis) | How much does late delivery hurt satisfaction? For the same wait, orders that miss the promised date score 1 to 1.5 points lower; 4–7 days late cuts the average from 4.11 to 2.11 (−49%). 96K orders, computed at order level. | Python · pandas · pytest |
 | [**sales-dashboard-olist**](https://github.com/wgalante/sales-dashboard-olist) | Interactive sales dashboard for 98K orders and R$15.8M in revenue: monthly trend, top categories and order status, filterable by date. [Live demo](https://olist-sales-dashboard.streamlit.app) (may take ~30s to wake up) | Streamlit · Plotly |
 | [**customer-churn-analysis**](https://github.com/wgalante/customer-churn-analysis) | Which telecom customers will cancel? Tuned to catch 73% of churners (vs. 57% at the default threshold), covering 77% of at-risk monthly revenue. ROC-AUC 0.84. | scikit-learn · pytest |
@@ -28,6 +29,7 @@ I turn business data and manual routines into decisions and automated processes:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
