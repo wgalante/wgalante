@@ -14,7 +14,7 @@ I analyze business data and automate manual processes. Python and SQL for analys
 | [**olist-review-intelligence**](https://github.com/wgalante/olist-review-intelligence) | What do unhappy customers complain about? An LLM tagged 10K reviews with 91% F1 (keyword search: 75%). Most "never got my order" reviews were written before the package arrived. | Gemini API · Python · pytest |
 | [**olist-delivery-quality-analysis**](https://github.com/wgalante/olist-delivery-quality-analysis) | How much does a late delivery hurt the review? Orders 4–7 days late average 2.1 stars vs 4.1 on time. Missing the promised date matters more than the wait itself. | Python · pandas · pytest |
 | [**sales-dashboard-olist**](https://github.com/wgalante/sales-dashboard-olist) | Where does the revenue come from? Interactive dashboard for 98K orders and R$15.8M: categories, monthly trend and order status. | Streamlit · Plotly |
-| [**customer-churn-analysis**](https://github.com/wgalante/customer-churn-analysis) | Which customers are about to cancel? The model finds 73% of them, covering 77% of the revenue at risk. ROC-AUC 0.84. | scikit-learn · pytest |
+| [**customer-churn-analysis**](https://github.com/wgalante/customer-churn-analysis) | Which customers are about to cancel? The model finds 73% of them, covering 77% of the revenue at risk. | scikit-learn · pytest |
 | [**world-cup-data-analysis**](https://github.com/wgalante/world-cup-data-analysis) | Does the top scorer's team win the Cup? Only 2 times in 13 since 1994. Dataset checked against official sources. | SQL · Python |
 
 Live demo of the dashboard: [olist-sales-dashboard.streamlit.app](https://olist-sales-dashboard.streamlit.app) (the free server may take ~30s to wake up).
