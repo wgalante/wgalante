@@ -11,10 +11,10 @@ I turn business data and manual routines into decisions and automated processes:
 
 | Project | What it answers | Stack |
 |---|---|---|
-| [**olist-delivery-quality-analysis**](https://github.com/wgalante/olist-delivery-quality-analysis) | How much does late delivery hurt customer satisfaction? A 4–7 day delay drops the average review from 4.06 to 2.09 (−49%), across 96K orders. | Python · pandas · pytest |
-| [**sales-dashboard-olist**](https://github.com/wgalante/sales-dashboard-olist) | Interactive sales dashboard for 98K orders and R$15.8M in revenue: categories, trends and delivery health. [Live demo](https://olist-sales-dashboard.streamlit.app) (may take ~30s to wake up) | Streamlit · Plotly |
+| [**olist-delivery-quality-analysis**](https://github.com/wgalante/olist-delivery-quality-analysis) | How much does late delivery hurt satisfaction? For the same wait, orders that miss the promised date score 1 to 1.5 points lower; 4–7 days late cuts the average from 4.11 to 2.11 (−49%). 96K orders, computed at order level. | Python · pandas · pytest |
+| [**sales-dashboard-olist**](https://github.com/wgalante/sales-dashboard-olist) | Interactive sales dashboard for 98K orders and R$15.8M in revenue: monthly trend, top categories and order status, filterable by date. [Live demo](https://olist-sales-dashboard.streamlit.app) (may take ~30s to wake up) | Streamlit · Plotly |
 | [**customer-churn-analysis**](https://github.com/wgalante/customer-churn-analysis) | Which telecom customers will cancel? Tuned to catch 73% of churners (vs. 57% at the default threshold), covering 77% of at-risk monthly revenue. ROC-AUC 0.84. | scikit-learn · pytest |
-| [**world-cup-data-analysis**](https://github.com/wgalante/world-cup-data-analysis) | Three less obvious questions about nine World Cups (1994–2026), with the dataset validated against primary sources. | SQL · Python |
+| [**world-cup-data-analysis**](https://github.com/wgalante/world-cup-data-analysis) | Does the top scorer's team win the World Cup? Only 2 of 13 times since 1994. Hand-compiled dataset validated against primary sources, with every correction logged. | SQL · Python |
 
 ---
 
