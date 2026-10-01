@@ -3,31 +3,21 @@
 **Data Analyst | Applied AI & Automation | Python · SQL · n8n**
 São Paulo, Brazil · Open to remote, hybrid and contract roles
 
-I work with data and automation. Most of what's here started with a simple business question and a public dataset, and ended with me finding out the first answer was wrong. Those are usually the interesting parts.
+I analyze business data and automate manual processes. Python and SQL for analysis and dashboards; n8n and LLM APIs (Gemini, Claude, GPT) for automation.
 
 ---
 
-## Projects
+## Featured Projects
 
-**[olist-review-intelligence](https://github.com/wgalante/olist-review-intelligence)**
-I wanted to know what unhappy customers actually write about, so I had an LLM read 10,000 reviews in Portuguese and tag the complaints. It got 91% of the labels right on a set I checked by hand, against 75% for keyword search. The surprise: most people who wrote "I never got my order" posted the review before the package had even arrived.
-*Gemini / Claude API, Python, pytest*
+| Project | What it answers | Stack |
+|---|---|---|
+| [**olist-review-intelligence**](https://github.com/wgalante/olist-review-intelligence) | What do unhappy customers complain about? An LLM tagged 10K reviews with 91% F1 (keyword search: 75%). Most "never got my order" reviews were written before the package arrived. | Gemini API · Python · pytest |
+| [**olist-delivery-quality-analysis**](https://github.com/wgalante/olist-delivery-quality-analysis) | How much does a late delivery hurt the review? Orders 4–7 days late average 2.1 stars vs 4.1 on time. Missing the promised date matters more than the wait itself. | Python · pandas · pytest |
+| [**sales-dashboard-olist**](https://github.com/wgalante/sales-dashboard-olist) | Where does the revenue come from? Interactive dashboard for 98K orders and R$15.8M: categories, monthly trend and order status. | Streamlit · Plotly |
+| [**customer-churn-analysis**](https://github.com/wgalante/customer-churn-analysis) | Which customers are about to cancel? The model finds 73% of them, covering 77% of the revenue at risk. ROC-AUC 0.84. | scikit-learn · pytest |
+| [**world-cup-data-analysis**](https://github.com/wgalante/world-cup-data-analysis) | Does the top scorer's team win the Cup? Only 2 times in 13 since 1994. Dataset checked against official sources. | SQL · Python |
 
-**[olist-delivery-quality-analysis](https://github.com/wgalante/olist-delivery-quality-analysis)**
-How much does a late delivery hurt the review score? A lot. Orders 4 to 7 days late average 2.1 stars, against 4.1 for on-time ones. And it's not only about speed: two orders that took the same time get very different scores depending on whether the promised date was met.
-*Python, pandas, pytest*
-
-**[sales-dashboard-olist](https://github.com/wgalante/sales-dashboard-olist)**
-A sales dashboard for 98,000 orders that you can filter by date: monthly revenue, best-selling categories and order status. [Try it here](https://olist-sales-dashboard.streamlit.app) (the free server sleeps, so it can take 30 seconds to open).
-*Streamlit, Plotly*
-
-**[customer-churn-analysis](https://github.com/wgalante/customer-churn-analysis)**
-Which telecom customers are about to cancel? The first version looked good on accuracy but missed almost half of them. After adjusting it, the model finds 73% of the customers who leave, which covers 77% of the revenue at risk.
-*scikit-learn, pytest*
-
-**[world-cup-data-analysis](https://github.com/wgalante/world-cup-data-analysis)**
-Does the top scorer's team win the World Cup? Since 1994, only twice in 13 cases. I built the dataset myself and kept a log of every error I found and fixed along the way.
-*SQL, Python*
+Live demo of the dashboard: [olist-sales-dashboard.streamlit.app](https://olist-sales-dashboard.streamlit.app) (the free server may take ~30s to wake up).
 
 ---
 
